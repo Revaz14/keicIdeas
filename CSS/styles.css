@@ -1,0 +1,70 @@
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Montserrat", sans-serif;
+}
+
+body {
+  font-family: "Montserrat", sans-serif;
+}
+
+.navbar {
+  background-color: #FFF0F5;
+  padding-bottom: 20px;
+  padding-top: 20px;
+  margin-bottom: 30px;
+}
+
+.navbar-brand {
+  left: 47%;
+  position: absolute;
+}
+
+.logo-brand {
+  width: 10%;
+}
+
+/* Servicios */
+
+#servicios {
+  padding: 25px;
+  line-height: 1.5;
+}
+
+.servicios-tabla {
+  margin: 25px 40px;
+}
+
+.pasteles {
+  color: #F56FAC;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 900;
+}
+
+.postres-items {
+  text-align: left;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.postres-prices {
+  text-align: left;
+  font-size: 1.5rem;
+}
+
+
+/* Contacto */
+
+#contacto {
+  background-color: #FFF0F5;
+  padding: 20px;
+}
+
+.contacto-title {
+  color: #F56FAC;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 900;
+}
+
+.pedidos-form {
+  margin: 50px 50px;
+  padding: 30px;
+}
